@@ -49,7 +49,7 @@ const TermsCondition = () => {
               disabled={!isChecked}
               className={isChecked ? styles.button : styles.buttonDisabled}
             >
-              Lanjutkan
+              Lanjutkan !!!
             </button>
           </div>
         </div>
