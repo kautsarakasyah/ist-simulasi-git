@@ -22,7 +22,7 @@ function CreatePasswordPage() {
             <Col md={6}>
               <h2 className="mb-3 fw-bold text-primary">Buat Password Kamu</h2>
               <p className="text-muted mb-4">
-                Pastikan password yang kamu buat sesuai dengan petunjuk ya! Tenang aja password kamu di jamin aman. 
+                Tenang aja password kamu di jamin aman, Pastikan password yang kamu buat sesuai dengan petunjuk ya!  
               </p>
               <PasswordForm />
             </Col>
