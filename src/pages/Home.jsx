@@ -52,7 +52,7 @@ export default function Home() {
 
       >
         <h1 className='title text-white'>Wondr Dekstop</h1>
-        <p className='mb-4'>Buat transaksi, dapatkan insight keuangan, dan kembangkan investasi dalam satu aplikasi. Download sekarang.</p>
+        <p className='mb-4'>Buat transaksi, dapatkan insight keuangan, dan kembangkan investasi dalam satu aplikasi. Download sekarang yuk.</p>
           <div className="d-flex justify-content-center gap-5">
           <Button variant="outline-light" className="btn-download">
             <FaGooglePlay className="me-2" />
