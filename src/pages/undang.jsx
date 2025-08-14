@@ -65,7 +65,7 @@ const Undang = () => {
             <Form.Check
               type="checkbox"
               id="checkbox-eksternal"
-              label={<span className={styles.checkboxLabel}>Saya bersedia menerima promosi/info/penawaran dari Grup BNI dan/atau Mitra melalui sarana komunikasi pribadi dan mengizinkan BNI memberikan Data Pribadi saya untuk itu.</span>}
+              label={<span className={styles.checkboxLabel}>Saya bersedia menerima promosi/info/penawaran dari Grup BNI dan/atau Mitra melalui sarana komunikasi pribadi dan mengizinkan BNI memberikan Data Pribadi saya untuk keperluan tersebut.</span>}
               name="agreePromoEksternal"
               onChange={handleCheckboxChange}
               checked={isChecked.agreePromoEksternal}
