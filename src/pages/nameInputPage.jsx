@@ -49,7 +49,7 @@ function NameInputPage() {
               </p>
               <Form onSubmit={handleSubmit}>
                 <Form.Group controlId="name">
-                  <Form.Label className="fw-semibold">Nama Kamu</Form.Label>
+                  <Form.Label className="fw-semibold">Masukkan Nama Kamu Ya!</Form.Label>
                   <div className="position-relative">
                     <Form.Control
                       type="text"
