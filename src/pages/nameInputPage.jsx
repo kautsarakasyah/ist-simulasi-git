@@ -45,7 +45,7 @@ function NameInputPage() {
             <Col md={6}>
               <h2 className="mb-3 fw-bold text-dark">Siapa Nama Panggilanmu</h2>
               <p className="text-muted mb-4">
-                Biarkan kami bisa mengenalmu lebih dekat
+                Biarkan kami bisa mengenalmu lebih dekat, Tak kenal maka tak sayang
               </p>
               <Form onSubmit={handleSubmit}>
                 <Form.Group controlId="name">
