@@ -51,7 +51,7 @@ export default function PhoneInputPage() {
             <Col md={6} className="d-flex flex-column justify-content-between">
               <div>
                 <h2 className="mb-3 fw-bold text-dark">Isi Nomor Hp Kamu</h2>
-                <p className="text-muted mb-4">Pastikan nomornya aktif ya!</p>
+                <p className="text-muted mb-4">Nomor kamu akan tersimpan dengan aman, Pastikan nomornya aktif ya!</p>
 
                 <Form noValidate onSubmit={handleSubmit} className="has-validation">
                   <Form.Group controlId="phone">
