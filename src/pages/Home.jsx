@@ -39,8 +39,8 @@ export default function Home() {
             <Nav.Link className="text-white" href="#products" onClick={() => setExpanded(false)}>Product &amp; Services</Nav.Link>
             <Nav.Link className="text-white" href="#info" onClick={() => setExpanded(false)}>Information</Nav.Link>
             <Nav.Link className="text-white" href="#faq" onClick={() => setExpanded(false)}>FAQ</Nav.Link>
-            <Nav.Link className="text-white" href="#" onClick={() => setExpanded(false)}>Login</Nav.Link>
-            <Nav.Link className="text-white" href="/terms" onClick={() => setExpanded(false)}>SignUp</Nav.Link>
+            <Nav.Link className="text-white" href="#" onClick={() => setExpanded(false)}>Masuk</Nav.Link>
+            <Nav.Link className="text-white" href="/terms" onClick={() => setExpanded(false)}>Daftar</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
@@ -52,7 +52,7 @@ export default function Home() {
 
       >
         <h1 className='title text-white'>Wondr modification</h1>
-        <p className='mb-4'>Buat transaksi, dapatkan insight keuangan, dan kembangkan investasi dalam satu aplikasi. Download sekarang.</p>
+        <p className='mb-4'>Buat transaksi, dapatkan insight keuangan, dan kembangkan investasi dalam satu aplikasi. Download sekarang yuk.</p>
           <div className="d-flex justify-content-center gap-5">
           <Button variant="outline-light" className="btn-download">
             <FaGooglePlay className="me-2" />
