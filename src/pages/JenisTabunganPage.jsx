@@ -28,7 +28,7 @@ export default function JenisTabunganPage() {
           <h2 className="fw-bold text-center mb-4 title-text">Pilih Jenis Tabungan</h2>
           <div className="card-tabungan p-4 rounded-4 shadow bg-white w-100" style={{ maxWidth: '480px' }}>
             {/* Card content unchanged */}
-            <h3 className="fw-bold text-center mb-2">BNI Taplus Muda</h3>
+            <h3 className="fw-bold text-center mb-2">BNI Taplus</h3>
             <p className="text-muted text-center mb-4 small">
               Bukan sekedar sensasi tapi menjadi inspirasi bagi generasi muda saat ini.
             </p>
